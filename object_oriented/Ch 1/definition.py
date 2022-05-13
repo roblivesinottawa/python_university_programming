@@ -1,7 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
-# Basic class definitions
-
-
 class Book:
     # the "init" function is called when the instance is
     # created and ready to be initialized
