@@ -1,7 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
-# Using class-level and static methods
-
-
 class Book:
     # TODO: Properties defined at the class level are shared by all instances
     BOOK_TYPES = ("HARDCOVER", "PAPERBACK", "EBOOK")
